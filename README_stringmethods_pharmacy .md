@@ -16,5 +16,11 @@ Methods Practiced:
 
 in – checks for presence of a keyword in the string
 
+# Skills Used
+Python
+String Methods
+Console Input/Output
+Basic Logic Building
+
 
 This exercise is part of my learning journey as a pharmacist pivoting to tech, building a strong foundation in Python with real-world relevance.
